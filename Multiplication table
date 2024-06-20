@@ -1,0 +1,6 @@
+a=4
+range=1:10
+for (i in range) {
+  result=a*i
+  print(paste(a,"*",i,"=",result))
+}
